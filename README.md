@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Hamdaoui Hajar</h1>
 <h3 align="center">A passionate software engineer from Morocco</h3>
 
-- 🌱 I’m currently learning **Devops**
+- 🌱 I’m currently learning **n8n**
 
-- 💬 Ask me about **react, tailwind**
+- 💬 Ask me about **react, angular, Dotnetcore**
 
 - 📫 How to reach me **hamdaouihajar54@gmail.com**
 
-- ⚡ Fun fact **I love tailwind**
+- ⚡ Fun fact **Creativity is a must**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
