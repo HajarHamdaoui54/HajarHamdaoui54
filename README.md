@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hamdaoui Hajar</h1>
 <h3 align="center">A passionate software engineer from Morocco</h3>
 
-- 🌱 I’m currently learning **n8n**
+- 🌱 I’m currently learning **Go**
 
 - 💬 Ask me about **react, angular, Dotnetcore**
 
